@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 /data
+data_all.csv
+data_error.csv
